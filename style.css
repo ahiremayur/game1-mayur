@@ -16,8 +16,10 @@
 button{
     margin: 0;
   position: absolute;
-  top: 250px;
-  right: 600px;
+  top: 50%;
+  right: 50%;
+  /* top: 250px; */
+  /* right: 600px; */
 
     background-color: yellow;
     width: 75px;
